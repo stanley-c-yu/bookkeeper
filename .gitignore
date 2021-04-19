@@ -1,0 +1,7 @@
+**/.DS_Store
+**/balance.dat
+bk_env/
+__pycache__/
+bank-records/
+expense-reports/
+
